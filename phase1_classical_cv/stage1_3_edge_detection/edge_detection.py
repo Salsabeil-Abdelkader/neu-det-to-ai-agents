@@ -1,5 +1,5 @@
 """
-Stage 1.3 — Classical Edge Detection (Canny & Sobel) from First Principles
+Stage 1.3: Classical Edge Detection (Canny & Sobel) from First Principles
 Dataset: NEU-DET (sample: crazing_1.jpg)
 
 Author: Salsabeil Abdelkader
